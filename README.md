@@ -3,7 +3,7 @@
 A free Redmine 3.0+ theme written in SCSS.
 
 ![The MIT License](https://img.shields.io/badge/license-MIT-584492.svg) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) ![Run linters](https://github.com/mrliptontea/PurpleMine2/workflows/Run%20linters/badge.svg) [![Issues](https://img.shields.io/github/issues/mrliptontea/PurpleMine2.svg)](https://github.com/mrliptontea/PurpleMine2/issues)
-
+This theme is made out of Purplemine 2 link to original one https://github.com/mrliptontea/PurpleMine2
 ---
 
 ![Screenshot]![image](https://user-images.githubusercontent.com/110031147/183666080-7e2252d6-7dc1-4b8d-924d-65ef801c47db.png)
@@ -28,9 +28,9 @@ Then go to Redmine > Administration > Settings > Display and select PurpleMine2 
 
 ## Plugins
 
-This theme also features a new look for [Redmine Backlogs][redmine_backlogs] plugin. To install it, simply copy stylesheets from `PurpleMine2/plugins/redmine_backlogs` and overwrite files in `{redmine}/plugins/redmine_backlogs/assets/stylesheets` and restart Redmine.
+This theme also features a new look for [Redmine Backlogs][redmine_backlogs] plugin. To install it, simply copy stylesheets from `DITMine/plugins/redmine_backlogs` and overwrite files in `{redmine}/plugins/redmine_backlogs/assets/stylesheets` and restart Redmine.
 
-Also, [Redmine Time Tracker][redmine_time_tracker] and [Redmine People][redmine_crm_people] plugins should look nice with PurpleMine.
+Also, [Redmine Time Tracker][redmine_time_tracker] and [Redmine People][redmine_crm_people] plugins should look nice with DITMine.
 
 ## How to customize it
 
