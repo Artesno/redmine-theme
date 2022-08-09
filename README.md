@@ -1,4 +1,4 @@
-# PurpleMine 2
+# DITMine
 
 A free Redmine 3.0+ theme written in SCSS.
 
@@ -6,7 +6,7 @@ A free Redmine 3.0+ theme written in SCSS.
 
 ---
 
-![Screenshot](https://github.com/mrliptontea/PurpleMine2/raw/master/screenshots/issues.png)
+![Screenshot]![image](https://user-images.githubusercontent.com/110031147/183666080-7e2252d6-7dc1-4b8d-924d-65ef801c47db.png)
 
 It's written in [SCSS]. It uses [normalize.css] and benefits from some parts of [Bootstrap][bootstrap-sass] like mixins, structure, and stuff.
 
@@ -22,7 +22,7 @@ It's written in [SCSS]. It uses [normalize.css] and benefits from some parts of 
 
 ## How install it
 
-To install PurpleMine, just download [.zip](https://github.com/mrliptontea/PurpleMine2/archive/master.zip) and unpack it to your Redmine's `public/themes` folder.
+To install DITMine, just download [.zip] and unpack it to your Redmine's `public/themes` folder.
 
 Then go to Redmine > Administration > Settings > Display and select PurpleMine2 from the list and save the changes.
 
