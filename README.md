@@ -30,7 +30,7 @@ Then go to Redmine > Administration > Settings > Display and select PurpleMine2 
 
 This theme also features a new look for [Redmine Backlogs][redmine_backlogs] plugin. To install it, simply copy stylesheets from `DITMine/plugins/redmine_backlogs` and overwrite files in `{redmine}/plugins/redmine_backlogs/assets/stylesheets` and restart Redmine.
 
-Also, [Redmine Time Tracker][redmine_time_tracker],[Redmine People][redmine_crm_people] and [Dashboard][https://github.com/akpaevj/dashboard] plugins should look nice with DITMine.
+Also, [Redmine Time Tracker][redmine_time_tracker],[Redmine People][redmine_crm_people] and [Dashboard (https://github.com/akpaevj/dashboard)] plugins should look nice with DITMine.
 
 ## How to customize it
 
