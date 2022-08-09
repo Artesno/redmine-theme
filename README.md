@@ -1,12 +1,12 @@
-# DITMine
+# PurpleMine 2
 
-A free Redmine 3.0+ theme written in SCSS also work in redmine 5.x+ version
+A free Redmine 3.0+ theme written in SCSS also compatible with redmine 5.x.x+
 
-![The MIT License](https://img.shields.io/badge/license-MIT-584492.svg) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) ![Run linters](https://github.com/mrliptontea/PurpleMine2/workflows/Run%20linters/badge.svg) [![Issues](https://img.shields.io/github/issues/mrliptontea/PurpleMine2.svg)](https://github.com/mrliptontea/PurpleMine2/issues)
-This theme is made out of Purplemine 2 link to original one https://github.com/mrliptontea/PurpleMine2
+![The MIT License](https://img.shields.io/badge/license-MIT-584492.svg) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) 
+
 ---
 
-![Screenshot]![image](https://user-images.githubusercontent.com/110031147/183666080-7e2252d6-7dc1-4b8d-924d-65ef801c47db.png)
+![Screenshot]
 
 It's written in [SCSS]. It uses [normalize.css] and benefits from some parts of [Bootstrap][bootstrap-sass] like mixins, structure, and stuff.
 
@@ -22,7 +22,7 @@ It's written in [SCSS]. It uses [normalize.css] and benefits from some parts of 
 
 ## How install it
 
-To install DITMine, just download [.zip] and unpack it to your Redmine's `public/themes` folder.
+To install PurpleMine, just download [.zip] and unpack it to your Redmine's `public/themes` folder.
 
 Then go to Redmine > Administration > Settings > Display and select PurpleMine2 from the list and save the changes.
 
@@ -30,7 +30,7 @@ Then go to Redmine > Administration > Settings > Display and select PurpleMine2 
 
 This theme also features a new look for [Redmine Backlogs][redmine_backlogs] plugin. To install it, simply copy stylesheets from `DITMine/plugins/redmine_backlogs` and overwrite files in `{redmine}/plugins/redmine_backlogs/assets/stylesheets` and restart Redmine.
 
-Also, [Redmine Time Tracker][redmine_time_tracker],[Redmine People][redmine_crm_people] and [Dashboard] [https://github.com/akpaevj/dashboard] plugins should look nice with DITMine.
+Also, [Redmine Time Tracker][redmine_time_tracker],[Redmine People][redmine_crm_people] and [Dashboard][https://github.com/akpaevj/dashboard]plugins should look nice with PurpleMine.
 
 ## How to customize it
 
@@ -62,4 +62,3 @@ If you need to customize styles for [Redmine Backlogs][redmine_backlogs] remembe
 [redmine_backlogs]: https://github.com/backlogs/redmine_backlogs
 [redmine_time_tracker]: https://github.com/hicknhack-software/redmine_time_tracker
 [redmine_crm_people]: http://www.redminecrm.com/projects/people/
-[Dashboard]: https://github.com/raafael911/stuff_to_do_plugin](https://github.com/akpaevj/dashboard
